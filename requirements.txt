@@ -3,3 +3,4 @@ uvicorn
 numpy
 joblib
 python-dotenv
+scikit-learn
