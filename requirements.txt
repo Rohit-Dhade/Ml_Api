@@ -4,3 +4,4 @@ numpy
 joblib
 python-dotenv
 scikit-learn
+xgboost
