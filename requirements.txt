@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+numpy
+joblib
+python-dotenv
